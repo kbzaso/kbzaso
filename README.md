@@ -1,6 +1,6 @@
 ### Hi there, I'm Alejandro 👋
 
-I'm a frontend developer who is passionate about technology, professional development, graphic design, filmaking, photography and dogs; the reality I love all kind of animal, cats included. Some technology I enjoy working include Javascript, Svelet, CSS and SASS. 
+I'm a frontend developer who is passionate about technology, professional development, graphic design, filmaking, photography and dogs; the reality I love all kind of animal, cats included. Some technology I enjoy working include Javascript, Svelt, CSS and SASS. 
 
 - 🔭 I’m currently working as a frontend developer and graphic designer in freelance projects.
 - I'm working very hard in my portfolio.
