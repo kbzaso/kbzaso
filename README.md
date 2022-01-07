@@ -4,7 +4,6 @@ I'm a frontend developer who is passionate about technology, professional develo
 
 - 🔭 I’m currently working as a frontend developer and graphic designer in freelance projects.
 - I'm working very hard in my portfolio.
-- 🍳 Soon I will start a YouTube channel about cuisine.
 - 🌱 I'm part of Platzi Master [C8]  
 
 [<img src="https://img.shields.io/badge/Platzi%20Master-C8-%98CA3F?style=for-the-badge&logo=platzi" />](https://platzi.com/p/kbzaso/)
